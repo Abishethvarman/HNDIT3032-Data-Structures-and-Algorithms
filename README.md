@@ -46,6 +46,4 @@ Follow the steps below to contribute to this repository:
    Follow the instructions to submit your pull request to the main repository.
 
 ---
-```
 
-This is formatted in Markdown and can be directly placed into a `README.md` file for your students to follow. Let me know if you need any more adjustments!
